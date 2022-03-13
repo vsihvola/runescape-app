@@ -1,0 +1,271 @@
+{
+  "materials": [
+    {
+      "name": "Agnostic Materials",
+      "materials": [
+        {
+          "name": "Third Age iron",
+          "amount": 0
+        },
+        {
+          "name": "Samite silk",
+          "amount": 0
+        },
+        {
+          "name": "White oak",
+          "amount": 0
+        },
+        {
+          "name": "Goldrune",
+          "amount": 0
+        },
+        {
+          "name": "Orthenglass",
+          "amount": 0
+        },
+        {
+          "name": "Vellum",
+          "amount": 0
+        },
+        {
+          "name": "Leather scraps",
+          "amount": 0
+        },
+        {
+          "name": "Soapstone",
+          "amount": 0
+        },
+        {
+          "name": "Animal furs",
+          "amount": 0
+        },
+        {
+          "name": "Fossilised bone",
+          "amount": 0
+        }
+      ]
+    },
+    {
+      "name": "Armadylean Materials",
+      "materials": [
+        {
+          "name": "Stormguard steel",
+          "amount": 0
+        },
+        {
+          "name": "Wings of War",
+          "amount": 0
+        },
+        {
+          "name": "Armadylean yellow",
+          "amount": 0
+        },
+        {
+          "name": "Aetherium alloy",
+          "amount": 0
+        },
+        {
+          "name": "Quintessence",
+          "amount": 0
+        }
+      ]
+    },
+    {
+      "name": "Bandosian Materials",
+      "materials": [
+        {
+          "name": "Malachite green",
+          "amount": 0
+        },
+        {
+          "name": "Mark of the Kyzaj",
+          "amount": 0
+        },
+        {
+          "name": "Vulcanised rubber",
+          "amount": 0
+        },
+        {
+          "name": "Warforged bronze",
+          "amount": 0
+        },
+        {
+          "name": "Yu'biusk clay",
+          "amount": 0
+        }
+      ]
+    },
+    {
+      "name": "Dragonkin Materials",
+      "materials": [
+        {
+          "name": "Compass rose",
+          "amount": 0
+        },
+        {
+          "name": "Felt",
+          "amount": 0
+        },
+        {
+          "name": "Dragon metal",
+          "amount": 0
+        },
+        {
+          "name": "Carbon black",
+          "amount": 0
+        },
+        {
+          "name": "Orgone",
+          "amount": 0
+        }
+      ]
+    },
+    {
+      "name": "Saradominist Materials",
+      "materials": [
+        {
+          "name": "Keramos",
+          "amount": 0
+        },
+        {
+          "name": "White marble",
+          "amount": 0
+        },
+        {
+          "name": "Cobalt blue",
+          "amount": 0
+        },
+        {
+          "name": "Everlight silvthril",
+          "amount": 0
+        },
+        {
+          "name": "Star of Saradomin",
+          "amount": 0
+        }
+      ]
+    },
+    {
+      "name": "Zamorakian Materials",
+      "materials": [
+        {
+          "name": "Cadmium red",
+          "amount": 0
+        },
+        {
+          "name": "Chaotic brimstone",
+          "amount": 0
+        },
+
+        {
+          "name": "Demonhide",
+          "amount": 0
+        },
+        {
+          "name": "Eye of Dagon",
+          "amount": 0
+        },
+        {
+          "name": "Hellfire metal",
+          "amount": 0
+        }
+      ]
+    },
+    {
+      "name": "Zarosian Materials",
+      "materials": [
+        {
+          "name": "Zarosian insignia",
+          "amount": 0
+        },
+
+        {
+          "name": "Imperial steel",
+          "amount": 0
+        },
+
+        {
+          "name": "Ancient vis",
+          "amount": 0
+        },
+        {
+          "name": "Tyrian purple",
+          "amount": 0
+        },
+
+        {
+          "name": "Blood of Orcus",
+          "amount": 0
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "name": "Anarchic Abstraction",
+      "materials": [
+        { "name": "Vellum", "amount": 28 },
+        { "name": "Samite silk", "amount": 28 },
+        { "name": "Cadmium red", "amount": 90 },
+        { "name": "White oak", "amount": 28 }
+      ],
+      "artifacts": [
+        {
+          "name": "'Disorder' painting"
+        },
+        {
+          "name": "'The Lake of Fire' painting"
+        },
+        {
+          "name": "'Pandemonium' tapestry"
+        }
+      ]
+    },
+    {
+      "name": "Armadylean I",
+      "materials": [
+        { "name": "Leather scraps", "amount": 16 },
+        { "name": "Diamond", "amount": 1 },
+        { "name": "Goldrune", "amount": 34 },
+        { "name": "Stormguard steel", "amount": 72 },
+        { "name": "Armadylean yellow", "amount": 148 },
+        { "name": "Third Age iron", "amount": 72 },
+        { "name": "Clockwork", "amount": 1 },
+        { "name": "Phoenix feather", "amount": 1 },
+        { "name": "Animal furs", "amount": 38 },
+        { "name": "Samite silk", "amount": 60 },
+        { "name": "White oak", "amount": 132 },
+        { "name": "Wings of War", "amount": 46 }
+      ],
+      "artifacts": [
+        {
+          "name": "Ikovian gerege"
+        },
+        {
+          "name": "Toy glider"
+        },
+        {
+          "name": "Toy war golem"
+        },
+        {
+          "name": "Avian song-egg player"
+        },
+        {
+          "name": "Keshik drum"
+        },
+        {
+          "name": "Morin khuur"
+        },
+        {
+          "name": "Aviansie dreamcoat"
+        },
+        {
+          "name": "Ceremonial plume"
+        },
+        {
+          "name": "Peacocking parasol"
+        }
+      ]
+    }
+  ]
+}
